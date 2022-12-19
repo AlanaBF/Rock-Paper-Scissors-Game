@@ -19,7 +19,7 @@ After psuedo coding the game, the task was to build a rock-paper-scissors game u
 
 * The computer's selection must be random to ensure a fair game.
 
-<!-- deployed web link  -->
+https://alanabf.github.io/Rock-Paper-Scissors-Game/
 
 ## Installation
 
@@ -29,7 +29,7 @@ N/A
 
 This is a traditional game of rock, paper, scissors to demonstrate newly acquired javascript skills. The instructions will pop up on screen for 10 rounds of rock, paper, scissors, played against the computer. At the end it will display the final results for wins, losses, draws.
 
-<!-- ![alt text](./images/Webpage1.png) Picture of website-->
+![alt text](./assets/Rock-Paper-Scissors-Game.png) Picture of website
 
 
 ## Credits
