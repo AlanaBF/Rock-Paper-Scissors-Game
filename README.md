@@ -19,7 +19,28 @@ After psuedo coding the game, the task was to build a rock-paper-scissors game u
 
 * The computer's selection must be random to ensure a fair game.
 
-* Follow your pseudocode as much as you can, and if you get stuck don't worry, this is a challenging assignment.
+<!-- deployed web link  -->
+
+## Installation
+
+N/A
+
+## Usage
+
+This is a traditional game of rock, paper, scissors to demonstrate newly acquired javascript skills. The instructions will pop up on screen for 10 rounds of rock, paper, scissors, played against the computer. At the end it will display the final results for wins, losses, draws.
+
+<!-- ![alt text](./images/Webpage1.png) Picture of website-->
+
+
+## Credits
+
+N/A
+
+## License
+
+MIT
+
+---
 
 
 

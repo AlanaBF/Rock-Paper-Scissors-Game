@@ -8,7 +8,7 @@ var losses = 0
 var ties = 0
 //Initialiser starts at 0 with 10 goes, going up by 1 each time
 //Rules for the for loop
-for (var i = 0; i < 10; i++) {
+for (var i = 0; i < 5; i++) {
     //User chooses Rock, Paper or Scissors, using R, P, S. Giving the user their available options
     var userChoice = prompt("Choose R, P, S")
     //Random computer generator for the computer choices
@@ -36,19 +36,19 @@ for (var i = 0; i < 10; i++) {
             //increasing wins counter
             wins++
             //alert shows the user has won and how many times
-            alert("You won " + wins + " times")
+            alert("Congrats you won " + wins + " times")
         }
         //otherwise
         else {
             //increasing losses counter
             losses++
             //alert to show user lost and how many times
-            alert("You lost " + losses + " times")
+            alert("Ooooh too bad, you lost " + losses + " times")
         }
     }
 }
 //final alert to show the end score of wins, losses and ties
-alert("Wins " + wins + "Losses " + losses + "Ties " + ties)
+alert("All done. \nWoop Woop Wins: " + wins + "\nLosses: " + losses + "\nTies " + ties);
 
 
 
