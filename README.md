@@ -30,7 +30,8 @@ N/A
 
 This is a traditional game of rock, paper, scissors to demonstrate newly acquired javascript skills. The instructions will pop up on screen for 10 rounds of rock, paper, scissors, played against the computer. At the end it will display the final results for wins, losses, draws.
 
-![alt text](./assets/Rock-Paper-Scissors-Game.png) Picture of website
+![alt text](./assets/Screenshot-RPS.png) Picture of website
+![alt text](./assets/Screenshot-invite-to-play.png) Picture of invite
 
 ## Credits
 
