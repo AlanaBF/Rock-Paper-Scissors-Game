@@ -1,6 +1,7 @@
 # Rock-Paper-Scissors-Game
+
 Game of Rock, Paper, Scissors using JavaScript.
-After psuedo coding the game, the task was to build a rock-paper-scissors game using only JavaScript working collaboratively with two other people.
+After psuedo coding the game, the task was to build a rock-paper-scissors game using only JavaScript.
 
 **Rules for rock-paper-scissors**
 
@@ -19,7 +20,7 @@ After psuedo coding the game, the task was to build a rock-paper-scissors game u
 
 * The computer's selection must be random to ensure a fair game.
 
-https://alanabf.github.io/Rock-Paper-Scissors-Game/
+<https://alanabf.github.io/Rock-Paper-Scissors-Game/>
 
 ## Installation
 
@@ -31,7 +32,6 @@ This is a traditional game of rock, paper, scissors to demonstrate newly acquire
 
 ![alt text](./assets/Rock-Paper-Scissors-Game.png) Picture of website
 
-
 ## Credits
 
 N/A
@@ -39,11 +39,5 @@ N/A
 ## License
 
 MIT
-
----
-
-
-
-
 
 ---

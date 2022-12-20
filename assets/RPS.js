@@ -49,10 +49,3 @@ for (var i = 0; i < 5; i++) {
 }
 //final alert to show the end score of wins, losses and ties
 alert("All done. \nWoop Woop Wins: " + wins + "\nLosses: " + losses + "\nTies " + ties);
-
-
-
-
-
-
-
