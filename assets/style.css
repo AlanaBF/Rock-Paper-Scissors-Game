@@ -1,3 +1,9 @@
+  h1 {
+     font-size: 50px;
+     color: black;
+     justify-content: center;
+     align-items: center;
+ }
  body {
      background-color: teal;
      margin: 0;
@@ -6,11 +12,4 @@
      line-height: 1.5;
      font-size: 18px;
      line-height: 150%;
- }
-
- h1 {
-     font-size: 50px;
-     color: black;
-     justify-content: center;
-     align-items: center;
  }
